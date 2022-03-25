@@ -1,4 +1,4 @@
-# SteamAccountSwitcher
+# WindscribeGUI
 
 Qt 5/6 based GUI for Windscribe VPN written in Python
 
